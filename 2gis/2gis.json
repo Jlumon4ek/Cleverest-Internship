@@ -1,0 +1,5042 @@
+[
+    {
+        "Name": "Мята",
+        "Latitude": "51.115561",
+        "Longitude": "71.413122"
+    },
+    {
+        "Name": "Yakuza Sushi & Wok Bar",
+        "Latitude": "51.138539",
+        "Longitude": "71.400547"
+    },
+    {
+        "Name": "Et-Et",
+        "Latitude": "51.166721",
+        "Longitude": "71.408174"
+    },
+    {
+        "Name": "Столичные раки",
+        "Latitude": "51.087449",
+        "Longitude": "71.774656"
+    },
+    {
+        "Name": "KaRima",
+        "Latitude": "51.089478",
+        "Longitude": "71.425559"
+    },
+    {
+        "Name": "TokpokkiGo",
+        "Latitude": "51.157207",
+        "Longitude": "71.458012"
+    },
+    {
+        "Name": "Көкtem",
+        "Latitude": "51.129288",
+        "Longitude": "71.42845"
+    },
+    {
+        "Name": "Казбек",
+        "Latitude": "51.135111",
+        "Longitude": "71.421268"
+    },
+    {
+        "Name": "Iskender Food",
+        "Latitude": "51.119802",
+        "Longitude": "71.413815"
+    },
+    {
+        "Name": "Polly&Molly",
+        "Latitude": "51.099699",
+        "Longitude": "71.427689"
+    },
+    {
+        "Name": "Халуа ",
+        "Latitude": "51.136283",
+        "Longitude": "71.426718"
+    },
+    {
+        "Name": "SF",
+        "Latitude": "51.100906",
+        "Longitude": "71.413177"
+    },
+    {
+        "Name": "Molecula bar and more",
+        "Latitude": "51.115132",
+        "Longitude": "71.427816"
+    },
+    {
+        "Name": "I`m ",
+        "Latitude": "51.162383",
+        "Longitude": "71.409084"
+    },
+    {
+        "Name": "Kebab Pub",
+        "Latitude": "51.120536",
+        "Longitude": "71.414443"
+    },
+    {
+        "Name": "Quyrdaq House",
+        "Latitude": "51.109646",
+        "Longitude": "71.426629"
+    },
+    {
+        "Name": "Үш тандыр",
+        "Latitude": "51.148804",
+        "Longitude": "71.384805"
+    },
+    {
+        "Name": "Грузин Кузин",
+        "Latitude": "51.141993",
+        "Longitude": "71.448481"
+    },
+    {
+        "Name": "LAVASH Food",
+        "Latitude": "51.097533",
+        "Longitude": "71.416006"
+    },
+    {
+        "Name": "Korean House",
+        "Latitude": "51.141891",
+        "Longitude": "71.409755"
+    },
+    {
+        "Name": "Svoy sushi",
+        "Latitude": "51.162836",
+        "Longitude": "71.466272"
+    },
+    {
+        "Name": "ONESHOTT coffee",
+        "Latitude": "51.144748",
+        "Longitude": "71.460283"
+    },
+    {
+        "Name": "Yumtime",
+        "Latitude": "51.15322",
+        "Longitude": "71.465851"
+    },
+    {
+        "Name": "Dami ",
+        "Latitude": "51.11864",
+        "Longitude": "71.474707"
+    },
+    {
+        "Name": "Wood Pub",
+        "Latitude": "51.14255",
+        "Longitude": "71.473982"
+    },
+    {
+        "Name": "RANCH",
+        "Latitude": "51.128",
+        "Longitude": "71.437072"
+    },
+    {
+        "Name": "Altyn Palau",
+        "Latitude": "51.145454",
+        "Longitude": "71.42701"
+    },
+    {
+        "Name": "Sakaba",
+        "Latitude": "51.115511",
+        "Longitude": "71.482805"
+    },
+    {
+        "Name": "Medina food",
+        "Latitude": "51.136371",
+        "Longitude": "71.364487"
+    },
+    {
+        "Name": "Aula",
+        "Latitude": "51.131877",
+        "Longitude": "71.387147"
+    },
+    {
+        "Name": "DM",
+        "Latitude": "51.104607",
+        "Longitude": "71.424108"
+    },
+    {
+        "Name": "Hot Chick",
+        "Latitude": "51.128794",
+        "Longitude": "71.381608"
+    },
+    {
+        "Name": "Bol Bol Food",
+        "Latitude": "51.135638",
+        "Longitude": "71.378365"
+    },
+    {
+        "Name": "The SHASHLYKBAR & Парилка №1",
+        "Latitude": "51.155197",
+        "Longitude": "71.511438"
+    },
+    {
+        "Name": "MeATADOR",
+        "Latitude": "51.100747",
+        "Longitude": "71.395888"
+    },
+    {
+        "Name": "PIZZA HOUSE",
+        "Latitude": "51.122491",
+        "Longitude": "71.421145"
+    },
+    {
+        "Name": "KUTAISI",
+        "Latitude": "51.137954",
+        "Longitude": "71.469733"
+    },
+    {
+        "Name": "Daididau",
+        "Latitude": "51.128657",
+        "Longitude": "71.432791"
+    },
+    {
+        "Name": "InstaCafe ",
+        "Latitude": "51.13174",
+        "Longitude": "71.4787"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Огонёк",
+        "Latitude": "51.146384",
+        "Longitude": "71.502886"
+    },
+    {
+        "Name": "Ribambelle",
+        "Latitude": "51.125259",
+        "Longitude": "71.431884"
+    },
+    {
+        "Name": "Gaststätte",
+        "Latitude": "51.160661",
+        "Longitude": "71.415301"
+    },
+    {
+        "Name": "Grand Mangal",
+        "Latitude": "51.130069",
+        "Longitude": "71.428753"
+    },
+    {
+        "Name": "Terrasa Comfort",
+        "Latitude": "51.146471",
+        "Longitude": "71.424943"
+    },
+    {
+        "Name": "Тануки",
+        "Latitude": "51.090346",
+        "Longitude": "71.424207"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "2U Бургер&Донер",
+        "Latitude": "51.152714",
+        "Longitude": "71.41402"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Додо Пицца",
+        "Latitude": "51.166938",
+        "Longitude": "71.426484"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Deraliye",
+        "Latitude": "51.111725",
+        "Longitude": "71.408159"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "Baoli",
+        "Latitude": "51.106693",
+        "Longitude": "71.424679"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Vo Dvore",
+        "Latitude": "51.116569",
+        "Longitude": "71.433657"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Creatti ",
+        "Latitude": "51.085546",
+        "Longitude": "71.422634"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Шашлычок",
+        "Latitude": "51.121848",
+        "Longitude": "71.401001"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Zina",
+        "Latitude": "51.130395",
+        "Longitude": "71.464773"
+    },
+    {
+        "Name": "ШАВЕРМА",
+        "Latitude": "51.124994",
+        "Longitude": "71.484215"
+    },
+    {
+        "Name": "Brunello",
+        "Latitude": "51.097592",
+        "Longitude": "71.426836"
+    },
+    {
+        "Name": "Delish",
+        "Latitude": "51.139185",
+        "Longitude": "71.396268"
+    },
+    {
+        "Name": "Bloom Room Cafe",
+        "Latitude": "51.10557",
+        "Longitude": "71.397607"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    },
+    {
+        "Name": "ШашлыкоFF",
+        "Latitude": "51.180937",
+        "Longitude": "71.420139"
+    },
+    {
+        "Name": "Okadzaki.kz",
+        "Latitude": "51.169715",
+        "Longitude": "71.436112"
+    },
+    {
+        "Name": "Golden Basket",
+        "Latitude": "51.132568",
+        "Longitude": "71.368057"
+    }
+]
