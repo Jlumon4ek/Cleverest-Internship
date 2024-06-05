@@ -1,5 +1,8 @@
 import os
 from dotenv import load_dotenv
+
+load_dotenv()
+
 TORTOISE_ORM = {
     "connections": {"default": "sqlite://db.sqlite3"},
     "apps": {
