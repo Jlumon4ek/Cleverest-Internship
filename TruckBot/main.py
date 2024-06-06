@@ -26,3 +26,7 @@ async def send_message(user_message: UserMessage):
         return {"status": "Message sent"}
     except Exception as e:
         return {"status": f"Error: {e}"}
+
+@app.get('/')
+async def root():
+    return {"message": "Hello World"}
