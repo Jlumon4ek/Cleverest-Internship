@@ -4,7 +4,9 @@ import aiohttp
 import asyncio
 from bs4 import BeautifulSoup
 import re
-
+import os
+from aiogram import Bot
+from config import TOKEN
 
 headers = {
     'authority': '2gis.kz',
@@ -24,9 +26,9 @@ headers = {
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36'
 }
 
-urls = []
 
-async def gather_links_from_page(url, session):
+
+async def gather_links_from_page(url, session, urls):
     tasks = []
     async with session.get(url=url, headers=headers) as response:
         soup = BeautifulSoup(await response.text(), "html.parser")
@@ -40,12 +42,12 @@ async def gather_links_from_page(url, session):
                 div.find("a", class_="_1rehek")['href']
 
             
-            tasks.append(gather_every_restaurant({'title': title, 'link': link}, session))
+            tasks.append(gather_every_restaurant({'title': title, 'link': link}, session, urls))
 
         await asyncio.gather(*tasks)
 
 
-async def gather_every_restaurant(dict, session):
+async def gather_every_restaurant(dict, session, urls):
     link = dict['link']
     name = dict['title']
 
@@ -67,27 +69,41 @@ async def gather_every_restaurant(dict, session):
 
             name = name.replace('\xa0', '')
 
-            urls.append({
+            restaurant = {
                 "Name": name,
                 "Latitude": latitude, 
                 "Longitude": longitude
-            })
+            }
+
+            if restaurant not in urls:
+                urls.append(restaurant)
                 
     
 async def main():
-    tasks = []
+    tasks = []  
+
+    current_directory = os.path.dirname(__file__)
+    db_path = os.path.join(current_directory, '2gis.json')
+
+    if os.path.exists(db_path):
+        with open(db_path, "r", encoding='utf-8') as file:
+            urls = json.load(file)
+    else:
+        urls = []
+        
     async with aiohttp.ClientSession() as session:
-        for page in range(1, 85):
+        for page in range(3, 4):
             
             url = f'https://2gis.kz/astana/search/Поесть/page/{page}'
 
-            tasks.append(gather_links_from_page(url, session))
+            tasks.append(gather_links_from_page(url, session, urls))
     
         await asyncio.gather(*tasks)
+    
 
-
-    with open("2gis.json", "w", encoding='utf-8') as file:
+    with open(db_path, "w", encoding='utf-8') as file:
         json.dump(urls, file, indent=4, ensure_ascii=False)
+
 
 if __name__ == "__main__":
     asyncio.run(main())

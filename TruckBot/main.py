@@ -5,6 +5,7 @@ from schemas import UserMessage
 from models.models import Truck
 from config import TOKEN
 
+
 app = FastAPI()
 bot = Bot(token=TOKEN)
 
